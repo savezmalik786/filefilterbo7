@@ -1,12 +1,11 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/EvamariaTG/EvaMaria.git /EvaMaria
-else
+  git clone https://github.com/savezmalik786/filefilterbo7.git /savezmalik786
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /EvaMaria
+  git clone $UPSTREAM_REPO /filefilterbo7
 fi
-cd /EvaMaria
+cd /filefilterbo7
 pip3 install -U -r requirements.txt
 echo "Starting Bot...."
 python3 bot.py
