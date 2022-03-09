@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="assets/logo.jpg" alt="Movies house Logo">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>Movies house bot</b>
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+[![Stars](https://img.shields.io/github/stars/savezmalik786/filefilterbo7?style=flat-square&color=yellow)](https://github.com/savezmalik786/filefilterbo7/stargazers)
+[![Forks](https://img.shields.io/github/forks/savezmalik786/filefilterbo7?style=flat-square&color=orange)](https://github.com/savezmalik786/filefilterbo7/fork)
+[![Size](https://img.shields.io/github/repo-size/savezmalik786/filefilterbo7?style=flat-square&color=green)](https://github.com/savezmalik786/filefilterbo7/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/savezmalik786/filefilterbo7)   
+[![Contributors](https://img.shields.io/github/contributors/savezmalik786/filefilterbo7?style=flat-square&color=green)](https://github.com/savezmalik786/filefilterbo7/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/savezmalik786/filefilterbo7/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/savezmalik786/filefilterbo7.svg)](https://stars.medv.io/savezmalik786/filefilterbo7)
 
 
 ## Features
@@ -32,7 +32,7 @@
 - [x] File Store
 ## Variables
 
-Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
+Read [this](https://telegram.dog/Sahid_malik/12) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -66,7 +66,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/EvamariaTG/evamaria
+git clone https://github.com/savezmalik786/filefilterbo7
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -100,16 +100,16 @@ python3 bot.py
 • /ban  - to ban a user.
 • /unban  - to unban a user.
 • /channel - to get list of total connected channels
-• /broadcast - to broadcast a message to all Eva Maria users
+• /broadcast - to broadcast a message to all Movies house users
 • /batch - to create link for multiple posts
 • /link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TeamEvamaria)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/sahid_malik)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/sahid_malik)
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+* [![sahid_malik-Devs](https://img.shields.io/static/v1?label=sahid_malik&message=devs&color=critical)](https://telegram.dog/filefilterbo7Devs)
 
 
 ## Thanks to 
